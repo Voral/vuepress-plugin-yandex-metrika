@@ -56,4 +56,6 @@ The counter is not added to the pages in the development and SSR mode
 
 - Type: `Object`
 
-- Description: Counter parameters that can be configured and seen in the counter insertion script generated in your personal account [Yandex Metrika](https://metrika.yandex.ru/list)
+- Description: Counter parameters that can be configured and seen in the counter insertion script generated in your 
+personal account [Yandex Metrika](https://metrika.yandex.ru/list). And also get acquainted with the available in 
+[counter documentation](https://yandex.ru/support/metrica/code/counter-initialize.html).
