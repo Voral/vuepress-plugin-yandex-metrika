@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-yandex-metrika",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "VuePress 2 plugin - Yandex Metrika",
   "keywords": [
