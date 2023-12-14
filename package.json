@@ -1,0 +1,40 @@
+{
+  "name": "vuepress-plugin-yandex-metrika",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "VuePress 2 plugin - Yandex Metrika",
+  "keywords": [
+    "vuepress-plugin",
+    "vuepress",
+    "vuepress 2",
+    "vuepress-next",
+    "plugin",
+    "yandex",
+    "metrika"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Voral/vuepress-plugin-yandex-metrika.git"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "build": "yarn clean && tsc -b tsconfig.build.json",
+    "release": "npm publish",
+    "clean": "rimraf dist && rimraf *.tsbuildinfo",
+    "move": "node ./scripts/index.js"
+  },
+  "dependencies": {
+    "@vuepress/client": "^2.0.0-beta.67",
+    "@vuepress/core": "^2.0.0-beta.67",
+    "@vuepress/utils": "^2.0.0-beta.67"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^5.2.2"
+  }
+}
