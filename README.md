@@ -9,7 +9,6 @@
 ![Current Release](https://img.shields.io/github/release/voral/vuepress-plugin-yandex-metrika.svg?style=flat-square)
 ![Release Date](https://img.shields.io/github/release-date/voral/vuepress-plugin-yandex-metrika?style=flat-square)
 ![Monthly Downloads](https://img.shields.io/npm/dm/vuepress-plugin-yandex-metrika?style=flat-square)
-![min gzipped size](https://img.shields.io/bundlejs/size/vuepress-plugin-yandex-metrika?style=flat-square)
 ![MIT License](https://img.shields.io/github/license/voral/vuepress-plugin-yandex-metrika.svg?style=flat-square)
 
 
